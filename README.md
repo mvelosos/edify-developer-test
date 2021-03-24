@@ -12,7 +12,7 @@ Vue.js don't need to be embbed in the Rails app, you can develop in two separe p
 
 Use GitHub in your development process. You are allowed to use any libraries you want. Try to follow all best practices that you may know. Your logic and code will be reviewed. Less is more!
 
-Even if you was not able to finishing all steps, you can proceed and send me. You will be evaluated for what you have done.
+Even if you was not able to finishing all steps, you can proceed and submit the challenge. You will be evaluated for what you have done.
 
 ---
 ### Models
