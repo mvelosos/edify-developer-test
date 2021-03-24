@@ -46,7 +46,7 @@ Use GitHub in your development process. You are allowed to use any libraries you
 After finish, answer the e-mail with the link to your git repository. Any questions? Feel free to get in touch with me
 > mateus@edifyonline.com
 
-<br></br>
+
 _Good luck, have fun!_
 
 <br></br>
