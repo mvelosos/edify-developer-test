@@ -10,7 +10,9 @@ Write a rake task which will call a Job (ActiveJob). This job will receive a use
 You don't need to store user session or any kind of auth token. Don't worry about design/styling the application. You should worry about split the page in components that makes sense.
 Vue.js don't need to be embbed in the Rails app, you can develop in two separe projects if you want, just make sure to push both projects to the same GitHub repo.
 
-Use GitHub in your development process. You are allowed to use any libraries you want. Try to follow all best practices that you may know. Your logic and code will be reviewed. Less is more!  
+Use GitHub in your development process. You are allowed to use any libraries you want. Try to follow all best practices that you may know. Your logic and code will be reviewed. Less is more!
+
+Even if you was not able to finishing all steps, you can proceed and send me. You will be evaluated for what you have done.
 
 ---
 ### Models
