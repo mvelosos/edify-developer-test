@@ -3,7 +3,7 @@
 ---  
 
 ## Problem
-You will need to develop a simple application with signup and login features. The application will work based on two models: User and Pet. At the moment that the user is siging up, he should be able to set the fields: name, email, password and ONE pet name. A callback should be triggered to add two more pets, with name that you may choose, after the user is created. When successful login/sign up, the user should be redirected to a page that will list all his pets names. At the listing page, it should have a button that will "alert" a random listed pet name.
+You will need to develop a simple application with signup and login features. The application will work based on two models: User and Pet. At the moment that the user is siging up, he should be able to set the fields: name, email, password and ONE pet name. A callback should be triggered to add two more pets (with name that you may choose), after the user is created. When successful login/sign up, the user should be redirected to a page that will list all his pets names. At the listing page, it should have a button that will "alert" a random listed pet name.
 
 Write a rake task which will call a Job (ActiveJob). This job will receive a user_id as param and will update all his pet names to "Sirius".
 
