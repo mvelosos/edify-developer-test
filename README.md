@@ -26,6 +26,7 @@ Even if you was not able to finishing all steps, you can proceed and submit the 
 
 - Pet
     - id
+    - user_id
     - name
     - created_at
     - updated_at
